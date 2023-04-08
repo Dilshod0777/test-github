@@ -7,3 +7,4 @@ now i am using SSH
 this is another change
 * cats and rats
 * houses and building
+* new class
