@@ -3,3 +3,5 @@
 * Todays changes begin
 * Everything should be in order
 
+* cat
+* dog
