@@ -1,4 +1,4 @@
-* paul
+
 * shitley
 * frisky
 * bobbin
